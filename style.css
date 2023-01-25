@@ -50,6 +50,7 @@ header,
 .title {
   font-size: 2rem;
   margin-bottom: 3rem;
+  margin-top: 0px;
 }
 
 section {
@@ -75,8 +76,8 @@ section {
 /* ----- TYPOGRAPHY ----- */
 /* --------------------- */
 
-h1,
-h2,
+.title,
+.indented-heading,
 strong {
   font-weight: 800;
 }
